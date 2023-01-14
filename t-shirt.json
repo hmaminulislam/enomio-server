@@ -1,0 +1,158 @@
+[
+  {
+    "img": "https://i.ibb.co/61Z4Nss/Graphic-T-Shirt.png",
+    "price": 79,
+    "name": "Graphic T-Shirt",
+    "category": "tshirt",
+    "rating": 0,
+    "shortText": "Hanes Men's Lightweight Graphic Tee is provide the fit and comfort you expect with stylish prints. Check out each of the graphic collections available from Hanes.",
+    "featureText": "These Hanes Comfort Flex Fit White Crews provide a fashionable look with Advanced Odor Protection Technology in an ultra soft cotton stretch fabric to keep you comfortable all day long.",
+    "featureList": [
+      {
+        "list": "Great prints with regular updates"
+      },
+      {
+        "list": "Soft, lightweight jersey"
+      },
+      {
+        "list": "Tagless T-Shirts - no scratchy tags"
+      },
+      {
+        "list": "Wicks Away Moisture"
+      }
+    ],
+    "color": "Oscar",
+    "weight": 100,
+    "width": 30
+  },
+  {
+    "img": "https://i.ibb.co/gdZpyWx/Sleeve-Graphic-T-shirt.png",
+    "price": 573,
+    "name": "Sleeve T-shirt",
+    "category": "tshirt",
+    "rating": 0,
+    "shortText": "Men's short sleeve combed cotton tee. Regular fit. Front screen print with screened inside neck",
+    "featureText": "Our men's classic graphic tee shirts come in a regular fit, offering slightly more room in the chest, shoulders, and body; A perfect addition to your closet and wardrobe, pair our tees with RVCA shorts, pants, jeans, or boardshorts",
+    "featureList": [
+      {
+        "list": "Shop our collection of graphic tees"
+      },
+      {
+        "list": "Our men's short sleeve graphic tees feature"
+      },
+      {
+        "list": "A perfect addition to your closet"
+      },
+      {
+        "list": "The tees are finished with a screen printed back"
+      }
+    ],
+    "color": "chikago",
+    "weight": 192,
+    "width": 26
+  },
+  {
+    "img": "https://i.ibb.co/dWR4VWG/Crewneck-T-Shirt.png",
+    "price": 380,
+    "name": "Crewneck T-Shirt",
+    "category": "tshirt",
+    "rating": 0,
+    "shortText": "An iconic piece of clothing in its own right, our solid t-shirt looks great with jeans and a hoodie sweatshirt or dressed up with a blazer.",
+    "featureText": "MEET THE NEW ESSENTIALS: Made from responsibly sourced materials and with the Gap ethos in mind, our everyday essentials come in a wide range of fits, sizes, cuts, solid colors, and prints. AMERICAN STYLE FOR ALL AGES: Gap champions a uniquely optimistic sense of American style that bridges the gaps between individuals, generations, and cultures",
+    "featureList": [
+      {
+        "list": "Easy to care for, this tee can be washed"
+      },
+      {
+        "list": "Each top is made from comfortable cotton"
+      },
+      {
+        "list": "Made for work or for the weekends"
+      },
+      {
+        "list": "Gap champions a uniquely optimistic sense"
+      }
+    ],
+    "color": "navy",
+    "weight": 196,
+    "width": 24
+  },
+  {
+    "img": "https://i.ibb.co/qpfXd2m/Heavy-Cotton-T-Shirt.png",
+    "price": 22,
+    "name": "Heavy Cotton T-Shirt",
+    "category": "tshirt",
+    "rating": 0,
+    "shortText": "Bleaching and tie dye. A fantastic choice when you want to coordinate looks for the entire family",
+    "featureText": "This Adult Heavy Cotton T-shirt is Gildan’s best seller for a reason—wearers love the weight and versatility of the fabric, and there are companion styles for women, youth and toddlers. Made of U.S.-grown cotton, this midweight takes you through every season of the year. Its smooth surface is ideal for screen printing, embroidery, iron-on transfers",
+    "featureList": [
+      {
+        "list": "Our most popular t-shirt"
+      },
+      {
+        "list": "Non-topstitched, classic width, rib collar"
+      },
+      {
+        "list": "Tear away label for customizable comfort"
+      },
+      {
+        "list": "Screen printing, embroidery, iron-on"
+      }
+    ],
+    "color": "khaki",
+    "weight": 182,
+    "width": 21
+  },
+  {
+    "img": "https://i.ibb.co/7QBpJ0X/Performance-T-Shirt.png",
+    "price": 192,
+    "name": "Performance T-Shirt",
+    "category": "tshirt",
+    "rating": 0,
+    "shortText": "This tee is a wardrobe essential, offering both the style and comfort of cotton with the benefits of performance.",
+    "featureText": "The Russell Athletic Men’s Essential Tee delivers the comfort, style, and performance to fit your active lifestyle. This t-shirt features our signature Dri-Power moisture wicking technology, odor protection to keep the fabric fresh, and a UPF 30+ rating to protect you from harmful UV rays",
+    "featureList": [
+      {
+        "list": "Odor protection helps to keep fabric fresh"
+      },
+      {
+        "list": "Dri-power moisture wicking technology"
+      },
+      {
+        "list": "Lightweight cotton blend provides premium"
+      },
+      {
+        "list": "Premium softness wash after wash"
+      }
+    ],
+    "color": "black",
+    "weight": 157,
+    "width": 18
+  },
+  {
+    "img": "https://i.ibb.co/jJ99PGj/Short-Sleeve-T-Shirt.png",
+    "price": 104,
+    "name": "Short Sleeve T-Shirt",
+    "category": "tshirt",
+    "rating": 0,
+    "shortText": "Hanes Men's Lightweight Graphic Tee is provide the fit and comfort you expect with stylish prints. Check out each of the graphic collections available from Hanes.",
+    "featureText": "This Adult Heavy Cotton T-shirt is Gildan’s best seller for a reason—wearers love the weight and versatility of the fabric, and there are companion styles for women, youth and toddlers. Made of U.S.-grown cotton, this midweight takes you through every season of the year. Its smooth surface is ideal for screen printing, embroidery, iron-on transfers",
+    "featureList": [
+      {
+        "list": "Our most popular t-shirt"
+      },
+      {
+        "list": "Non-topstitched, classic width, rib collar"
+      },
+      {
+        "list": "Tear away label for customizable comfort"
+      },
+      {
+        "list": "Great prints with regular updates"
+      }
+    ],
+    "color": "black",
+    "weight": 197,
+    "width": 21
+  }
+]

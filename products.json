@@ -1,0 +1,116 @@
+[
+  {
+    "img": "https://i.ibb.co/nwfyTkc/Neck-Sweatshirt.png",
+    "price": 216,
+    "name": "Neck Sweatshirt",
+    "category": "men",
+    "rating": 0,
+    "shortText": "An Amazon brand - A relaxed leg and elastic waistband bring lounge-ready style to this classic casual Sweatshirt",
+    "featureText": "Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of men’s must-haves includes polo shirts, chino pants, classic-fit shorts, casual button-downs, and crew-neck tees. Our consistent sizing takes the guesswork out of shopping, and each piece is put to the test to maintain the highest standards in quality and comfort",
+    "featureList": [
+      {"list": "Easy through chest and tapered through waist"},
+      {"list": "Soft, warm, and oh-so-comfortable midweight brushed back fleece"},
+      {"list": "Kangaroo split pockets at front"},
+      {"list": "Full-length zippered closure at front"}
+    ],
+    "color": "black",
+    "size": "medium",
+    "weight": 106,
+    "width": 10
+  },
+  {
+    "img": "https://i.ibb.co/HnthRpX/Cotton-Jersey.png",
+    "price": 406,
+    "name": "Cotton Jersey",
+    "category": "men",
+    "rating": 0,
+    "shortText": "Big smith has been the working man's bib since 1916. These classic work styles are strong, durable, and comfortable.",
+    "featureText": "Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of men’s must-haves includes polo shirts, chino pants, classic-fit shorts, casual button-downs, and crew-neck tees. Our consistent sizing takes the guesswork out of shopping, and each piece is fine-tuned to offer quality and comfort.",
+    "featureList": [
+      {"list": "Three button placket"},
+      {"list": "Comfort crew neck, just like your favorite"},
+      {"list": "Sewn with Nomex thread"},
+      {"list": "Country of origin: Mexico"}
+    ],
+    "color": "navy",
+    "size": "medium",
+    "weight": 150,
+    "width": 11
+  },
+  {
+    "img": "https://i.ibb.co/QkjCQqt/Beanie-Cuffed.png",
+    "price": 212,
+    "name": "Beanie Cuffed",
+    "category": "men",
+    "rating": 0,
+    "shortText": "This Nike beanie is perfect to keep warm in the winter or cool summer nights. Features a contrast high-density embroidered Swoosh logo. Made from 100% Dri-FIT acrylic",
+    "featureText": "The simple texture and low-profile style match most kinds of clothes, suitable for both men and women. It fits different head sizes and looks nice on people of different faces. The beanie is lightweight and easy to carry, perfect for daily outings, commuting. Also, it is a great gift for your family and friends. Material: 100% acrylic. The top of the skull cap is tightly sewn and can withstand daily tear and wear",
+    "featureList": [
+      {"list": "Nike cuffed beanie"},
+      {"list": "Embroidered Swoosh Logo"},
+      {"list": "Dri-FIT Technology"},
+      {"list": "Keep warm and protected"}
+    ],
+    "color": "black",
+    "size": "medium",
+    "weight": 182,
+    "width": 14
+  },
+  {
+    "img": "https://i.ibb.co/Wn6yF8k/Slim-Fit-Suit.png",
+    "price": 464,
+    "name": "Slim Fit Suit",
+    "category": "men",
+    "rating": 0,
+    "shortText": "The advantage of the Calvin Klein Slim Fit Suit Separate is the ability to customize your jacket and pant size. Select your sizes and add them to the cart separately.",
+    "featureText": "This Calvin Klein Men’s Slim Fit Stretch Suit Separates gives you the option of customizing your jacket and pant suit size since the two pieces are sold separately. Dressing to impress has never been easier!",
+    "featureList": [
+      {"list": "The jacket is cut closer to the body higher armhole"},
+      {"list": "This classic performance wool fabric"},
+      {"list": "Wool is a sustainable fabric that is versatile"},
+      {"list": "Dressing to impress has never been easier!"}
+    ],
+    "color": "black",
+    "size": "large",
+    "weight": 103,
+    "width": 22
+  },
+  {
+    "img": "https://i.ibb.co/b396k8m/Rigid-Bib-Overall.png",
+    "price": 492,
+    "name": "Rigid Bib Overall",
+    "category": "men",
+    "rating": 0,
+    "shortText": "Big smith has been the working man's bib since 1916. These classic work styles are strong, durable, and comfortable.",
+    "featureText": "Shell constructed of 10 oz. 100 percent cotton twill. Double-ply adjustable bib straps with arrowhead back design to keep straps in place. Non-slipping, non-corrosive hardware. Reinforced bartacks at stress points for added strength. 5-piece pocket bib, 2 front swing pockets, 2 patch hip pockets, ruler and pliers pockets, cell phone pocket, and twisted hammer loop",
+    "featureList": [
+      {"list": "Easy through chest and tapered through waist"},
+      {"list": "Hood with adjustable drawstring"},
+      {"list": "Kangaroo split pockets at front"},
+      {"list": "Full-length zippered closure at front"}
+    ],
+    "color": "hickory",
+    "size": "medium",
+    "weight": 165,
+    "width": 22
+  },
+  {
+    "img": "https://i.ibb.co/J5Hymfg/Blend-Scarf-Coat.png",
+    "price": 467,
+    "name": "Blend Scarf Coat",
+    "category": "men",
+    "rating": 0,
+    "shortText": "Laydown collar walking coat with removable plaid scarf and lightly filled ultra-loft quilted lining.",
+    "featureText": "FUNCTIONALITY: Dual front closure with zipper and four exterior buttons; Two lower welt pockets at the waist and a hidden interior welt zipper pocket for added storage and security. STYLISH FEATURES: Comes with corresponding detachable plaid scarf; Polished box quilted lining with light ultra-loft polyfill for added warmth. VERSATILITY: Wool blend allows you to dress up or down for any occasion; Easy care fabric",
+    "featureList": [
+      {"list": "Easy through chest and tapered through waist"},
+      {"list": "Hood with adjustable drawstring"},
+      {"list": "Kangaroo split pockets at front"},
+      {"list": "Full-length zippered closure at front"}
+    ],
+    "color": "charcoal",
+    "size": "medium",
+    "weight": 161,
+    "width": 23
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "img": "https://i.ibb.co/XY6sWhy/Crewneck-T-Shirt.png",
+    "price": 395,
+    "name": "Crewneck T-Shirt",
+    "category": "women",
+    "rating": 0,
+    "shortText": "It's super comfy and casual not to mention very trendy.The fabric has generous amount of stretch, lightweight flowy flare t shirts,comfortable to wear.",
+    "featureText": "Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of women's apparel includes cashmere sweaters, fleece and down jackets, and more, including plus-size options. Our consistent sizing takes the guesswork out of shopping, and each piece is put to the test to maintain the highest standards in quality and comfort.",
+    "featureList": [
+      {
+        "list": "Close-but-comfortable fit with easy movement"
+      },
+      {
+        "list": "Lightweight jersey cotton blend with stretch"
+      },
+      {
+        "list": "Round neckline"
+      },
+      {
+        "list": "Our consistent sizing takes"
+      }
+    ],
+    "color": "stripe",
+    "weight": 148,
+    "width": 10
+  },
+  {
+    "img": "https://i.ibb.co/rHmTdbL/Batwing-Long-T-Shirt.png",
+    "price": 437,
+    "name": "Batwing Long T-Shirt",
+    "category": "women",
+    "rating": 0,
+    "shortText": "This tunic features super soft fabric, a round neckline, long sleeves, classic solid color,slouchy dolman batwing tunic shirts",
+    "featureText": "Great to wear for Casual, School, Daily Wear, Evening, Work, Office, Outdoor, Travel, Vocation Or Daily Wear.It can be worn with jeans or trousers and can be layered with a cardi or even a blazer for a dressier look! if you are looking for a comfort wearing style then just add your favorite leggings and a cozy scarf!Fashion trendy, cute and comfy",
+    "featureList": [
+      {
+        "list": "Our sizes is US standard size"
+      },
+      {
+        "list": "Hand wash or machine washable"
+      },
+      {
+        "list": "The casual and basic tops will show your unique"
+      },
+      {
+        "list": "Lightweight flowy flare t shirts,comfortable"
+      }
+    ],
+    "color": "blue",
+    "weight": 177,
+    "width": 11
+  },
+  {
+    "img": "https://i.ibb.co/z2G6F1w/Rival-Fleece-Joggers.png",
+    "price": 681,
+    "name": "Rival Fleece Joggers",
+    "category": "women",
+    "rating": 0,
+    "shortText": "Ultra-soft, mid-weight cotton-blend fleece with brushed interior for extra warmth. Encased elastic waistband with external drawcord. Open hand pockets.",
+    "featureText": "Convenient to store your phone and valuables. You can free your hands when exercising or put your hands in when it's cold. Versatile - G Gradual thermal sweatpants are perfect for dog walking, lounging, running, hiking, athletic, workout, skiing, casual, or daily wearing in winter.",
+    "featureList": [
+      {
+        "list": "Ultra-soft, mid-weight cotton-blend fleece"
+      },
+      {
+        "list": "Encased elastic waistband with external drawcord"
+      },
+      {
+        "list": "Open hand pockets"
+      },
+      {
+        "list": "Extended ribbed cuffs"
+      }
+    ],
+    "color": "steel",
+    "weight": 179,
+    "width": 13
+  },
+  {
+    "img": "https://i.ibb.co/GdrMDn8/Knit-Long-Sleeve.png",
+    "price": 649,
+    "name": "Knit Long Sleeve",
+    "category": "women",
+    "rating": 0,
+    "shortText": "Made from responsibly sourced materials and with the Gap ethos in mind, these everyday essentials come in a wide range of fits, sizes, cuts, colors, and prints",
+    "featureText": "This shirt is made from a comfortable waffle knit fabric, and features a fashionable crew neck with long sleeves. Made from responsibly sourced materials, and with the Gap ethos in mind, these everyday essentials come in a wide range of fits, sizes, and colors.",
+    "featureList": [
+      {
+        "list": "Wear it alone or layer it for your own unique style"
+      },
+      {
+        "list": "Each top is made from a comfortable waffle knit fabric"
+      },
+      {
+        "list": "This top can be washed with like colors"
+      },
+      {
+        "list": "Gap champions a uniquely optimistic sense"
+      }
+    ],
+    "color": "Navy",
+    "weight": 109,
+    "width": 18
+  },
+  {
+    "img": "https://i.ibb.co/xF94QMG/Classic-Logo-Tee.png",
+    "price": 315,
+    "name": "Classic Logo Tee",
+    "category": "women",
+    "rating": 0,
+    "shortText": "Sporting the signature Gap logo, this classic branded tee is a basic for any wardrobe and looks great with anything.",
+    "featureText": "Instantly recognizable and always iconic, our signature logo apparel transcends all ages and backgrounds, and conveys the ethos and style that Gap is known all around the world for. Gap champions a uniquely optimistic sense of American style that bridges the gaps between individuals, generations, and cultures",
+    "featureList": [
+      {
+        "list": "Instantly recognizable and always iconic"
+      },
+      {
+        "list": "Easy to care for, this casual top can be washed"
+      },
+      {
+        "list": "A favorite piece that looks great on everyone"
+      },
+      {
+        "list": "Gap logo and is an essential for any wardrobe"
+      }
+    ],
+    "color": "blue",
+    "weight": 118,
+    "width": 15
+  },
+  {
+    "img": "https://i.ibb.co/NCLszXW/Favorite-V-Neck.png",
+    "price": 694,
+    "name": "Favorite V-Neck",
+    "category": "women",
+    "rating": 0,
+    "shortText": "Easy to care for, this top can be washed with like colors on the gentle cycle",
+    "featureText": "In this plain fitted womens t-shirt, you can wear it alone or layer it with other tops to give you a unique look Made from a comfortable jersey knit fabric, it features an ultra soft feel and a classic v-neck It is easy to care for and can be washed with like colors.",
+    "featureList": [
+      {
+        "list": "This plain fitted t-shirt can be worn alone"
+      },
+      {
+        "list": " layering piece for a style that’s all your own"
+      },
+      {
+        "list": "Made from responsibly sourced materials"
+      },
+      {
+        "list": "Comfortable jersey knit fabric"
+      }
+    ],
+    "color": "black",
+    "weight": 131,
+    "width": 10
+  }
+]

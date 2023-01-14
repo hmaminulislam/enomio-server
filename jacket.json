@@ -1,0 +1,110 @@
+[
+    {
+    "img": "https://i.ibb.co/BfY526K/Topper-Jacket.png",
+    "price": 63,
+    "name": "Topper Jacket",
+    "category": "jacket",
+    "rating": 0,
+    "shortText": "Instant warmth: Staying warm has never looked this cool; these men’s winter coats made with down-alternative insulation secure heat within each stitched quilt.",
+    "featureText": "Classic topper with knit bib. Faux leather trims. Instant warmth: Staying warm has never looked this cool; these men’s winter coats made with down-alternative insulation secure heat within each stitched quilt. Wardrobe versatility: Cole Haan coats be worn over a sweater, mens t-shirt, and other fall and winter clothes; they also look great over a pair of jeans, joggers for men, or sweatpants",
+    "featureList": [
+      {"list": "Classic topper with knit bib"},
+      {"list": "Faux leather trims"},
+      {"list": "Cole Haan coats be worn over a sweater"},
+      {"list": "they also look great over a pair of jeans"}
+    ],
+    "color": "black",
+    "weight": 145,
+    "width": 16
+  },
+  {
+    "img": "https://i.ibb.co/2MVPNN2/Hooded-Sweatshi.png",
+    "price": 627,
+    "name": "Hooded Sweatshirt",
+    "category": "jacket",
+    "rating": 0,
+    "shortText": "The sleeves are lined with a brushed almost knit fabric - very similar to the outer shell. The color is the same as the outter shell as well.",
+    "featureText": "Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of men’s must-haves includes polo shirts, chino pants, classic-fit shorts, casual button-downs, and crew-neck tees. Our consistent sizing takes the guesswork out of shopping, and each piece is put to the test to maintain the highest standards in quality and comfort.",
+    "featureList": [
+      {"list": "Easy through chest and tapered through waist"},
+      {"list": "Hood with adjustable drawstring"},
+      {"list": "Kangaroo split pockets at front"},
+      {"list": "Full-length zippered closure at front"}
+    ],
+    "color": "white",
+    "weight": 142,
+    "width": 14
+  },
+  {
+    "img": "https://i.ibb.co/JjXGwf9/Fleece-Sweatshirt.png",
+    "price": 452,
+    "name": "Fleece Sweatshirt",
+    "category": "jacket",
+    "rating": 0,
+    "shortText": "The sleeves are lined with a brushed almost knit fabric - very similar to the outer shell. The color is the same as the outter shell as well",
+    "featureText": "Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of men’s must-haves includes polo shirts, chino pants, classic-fit shorts, casual button-downs, and crew-neck tees. Our consistent sizing takes the guesswork out of shopping, and each piece is put to the test to maintain the highest standards in quality and comfort",
+    "featureList": [
+      {"list": "Easy through chest and tapered through waist"},
+      {"list": "Hood with adjustable drawstring"},
+      {"list": "Kangaroo split pockets at front"},
+      {"list": "Full-length zippered closure at front"}
+    ],
+    "color": "orange",
+    "weight": 158,
+    "width": 19
+  },
+  {
+    "img": "https://i.ibb.co/Pzg4dx0/Hooded-Puffer-Jacket.png",
+    "price": 934,
+    "name": "Hooded Puffer Jacket",
+    "category": "jacket",
+    "rating": 0,
+    "shortText": "The Children’s Place offers a huge selection of kid's clothing! Shop us for jeans, shorts, leggings, chinos, polo shirts, dresses, uniforms, pajamas, and accessories",
+    "featureText": "Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of men’s must-haves includes polo shirts, chino pants, classic-fit shorts, casual button-downs, and crew-neck tees. Our consistent sizing takes the guesswork out of shopping, and each piece is put to the test to maintain the highest standards in quality and comfort",
+    "featureList": [
+      {"list": "Water-resistant, durable fabric"},
+      {"list": "Thumbholes for additional warmth"},
+      {"list": "Kangaroo split pockets at front"},
+      {"list": "Attached hood"}
+    ],
+    "color": "Navy",
+    "weight": 140,
+    "width": 13
+  },
+  {
+    "img": "https://i.ibb.co/BcydK9N/Hooded-Military-Jacket.png",
+    "price": 564,
+    "name": "Hooded Military Jacket",
+    "category": "jacket",
+    "rating": 0,
+    "shortText": "This jacket in rich neutral colors will you keep as warm as you need to be with its removable hood and lining.",
+    "featureText": "Washed cotton jacket with zip out jersey hood making this jacket a perfect versatile fit,  adjustable snap cuffs, chest and slant hand pockets, and interior pocket for added storage. Full-length zipper enclosure as well as button enclosures can better protect you from wind and cold temperatures.",
+    "featureList": [
+      {"list": "Made from 100% heavyweight cotton"},
+      {"list": "his military style makes it an ideal all-purpose"},
+      {"list": "The Sherpa lining adds warmth and insulation"},
+      {"list": "This adds comfort and style"}
+    ],
+    "color": "black",
+    "weight": 256,
+    "width": 18
+  },
+  {
+    "img": "https://i.ibb.co/7V5mvhJ/Shirt-Jacket.jpg",
+    "price": 608,
+    "name": "Shirt Jacket",
+    "category": "jacket",
+    "rating": 0,
+    "shortText": "We recommend ordering a size down for a closer fit to your regular size as the sizing of this item is built larger for extra layering",
+    "featureText": "We added a flannel lining to our popular weathered cotton ’leather’ shirt to build this one-of-a-kind shirt jac. The rugged cotton suede look comes with an unexpected softness. Features side hand warmer pockets, antique brass Legendary snaps, Signature Buck appliqué, and double needle stitching",
+    "featureList": [
+      {"list": "Double needle stitching and hand warmer side pockets"},
+      {"list": "Legendary Signature Buck applique"},
+      {"list": "Features antique brass Legendary snaps"},
+      {"list": "Flannel lined and rugged cotton suede look"}
+    ],
+    "color": "black",
+    "weight": 345,
+    "width": 14
+  }
+]

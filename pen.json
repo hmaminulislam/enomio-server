@@ -1,0 +1,110 @@
+[
+    {
+    "img": "https://i.ibb.co/yNggMPB/Fleece-Jogger-Pant.png",
+    "price": 180,
+    "name": "Fleece Jogger Pant",
+    "category": "pant",
+    "rating": 0,
+    "shortText": "An Amazon brand - A relaxed leg and elastic waistband bring lounge-ready style to this classic casual pant",
+    "featureText": "Cold-weather style is easy with this versatile water-resistant lightweight puffer jacket featuring a full-zip front and stand-up collar. Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of men’s must-haves includes polo puffer jacket featuring a full-zip front and stand-up collar ncludes polo puffer jacket featuring a full-zip",
+    "featureList": [
+      {"list": "A relaxed leg and elastic, drawstring waistband bring"},
+      {"list": "Everyday made better: we listen to customer feedback"},
+      {"list": "Lounge-ready style to this classic casual pant"},
+      {"list": "Elastic cuffs at ankle and on-seam side pockets"}
+    ],
+    "color": "olive",
+    "weight": 105,
+    "width": 10
+  },
+  {
+    "img": "https://i.ibb.co/p2jcn0W/Cotton-Pants.png",
+    "price": 171,
+    "name": "Cotton Pants",
+    "category": "pant",
+    "rating": 0,
+    "shortText": "Handy side pockets keep your keys or ID safe.inseam finishes with neat elasticized cuffs that won't get in your way for running, biking.",
+    "featureText": "Versatility in your weekend wardrobe is a quality to be treasured. Here are pants that are all about versatile comfort to wear just about anywhere for just about anything. For warming up, cooling down, working out, running errands, or doing nothing at all, you won't find an easier, more comfortable knit pant. Designed for ease, these relaxed exercise pants are knit of US-grown cotton, with a comfortable elasticized waistband.",
+    "featureList": [
+      {"list": "Side-seam pockets keep essentials close by"},
+      {"list": "Soft and sturdy US-grown cotton knit"},
+      {"list": "Elasticized waist with inner drawcord for custom sizing"},
+      {"list": "Elasticized cuffs for a neat look"}
+    ],
+    "color": "black",
+    "weight": 190,
+    "width": 26
+  },
+  {
+    "img": "https://i.ibb.co/mGvxq6H/Slim-Ash-Jeans.png",
+    "price": 398,
+    "name": "Slim Ash Jeans",
+    "category": "pant",
+    "rating": 0,
+    "shortText": "The eco-friendly logo patch in tan and red is at the back waistband. The logo hardware at the back pocket adds subtle detailing.",
+    "featureText": "Slim-fit recycled stretch denim jeans in a sanded-wash blue. The well-worn look gives these jeans a vintage feel. This style features a comfortable low-rise waist with a fitted leg and slightly tapered hems. The eco-friendly logo patch in tan and red is at the back waistband. The logo hardware at the back pocket adds subtle detailing. The signature maple leaf graphic is debossed at the zip-fly",
+    "featureList": [
+      {"list": "Slim fit with a slightly tapered cuff"},
+      {"list": "Classic 5-pocket styling"},
+      {"list": "Made from BCI cotton and recycled materials"},
+      {"list": "84% cotton, 15% recycled cotton, 1% elastane"}
+    ],
+    "color": "sanded",
+    "weight": 195,
+    "width": 20
+  },
+  {
+    "img": "https://i.ibb.co/z7gNR6R/Sports-Cargo-Pants.png",
+    "price": 598,
+    "name": "Sports Cargo Pants",
+    "category": "pant",
+    "rating": 0,
+    "shortText": "The adjustable waist ensures a comfortable fit, while boot zippers make them easy for on and off access over boots",
+    "featureText": "Season after season, the 1960 Arctix Men's Snow Sports Cargo Pants serve as an outstanding value priced ski/snow pants and a versatile cornerstone of the Arctix line. These pants feature a 100% Polyester Dobby shell with ThermaLock W/R + W/P 3000mm Coating, offering a maximum degree of durability and protection from the elements, while allowing a full range of motion.",
+    "featureList": [
+      {"list": "85 grams ThermaTech Insulation offers"},
+      {"list": "600 Denier Ballistic are used to reinforce"},
+      {"list": "Adjustable waist for comfortable fit"},
+      {"list": "Boot Zippers for easy on and off"}
+    ],
+    "color": "black",
+    "weight": 165,
+    "width": 20
+  },
+  {
+    "img": "https://i.ibb.co/C8BMyK2/Twill-Cargo-Pant.png",
+    "price": 498,
+    "name": "Twill Cargo Pant",
+    "category": "pant",
+    "rating": 0,
+    "shortText": "The world's leading performance workwear brand, Dickies has been making quality workwear & apparel since 1922. All Dickies clothing offers superior",
+    "featureText": "Dickies FLEX Regular Fit Straight Leg Cargo Pants sit slightly below the waist, with a traditional fit through the seat and thigh, as well as a straight leg. Crafted from a strong, polyester/cotton twill work cloth, which is flexible for ease of movement. The twill featured is a mechanical stretch fabric that helps increase the durability and longevity of this cargo pants.",
+    "featureList": [
+      {"list": "Our pants are made with quality, comfort & value in mind"},
+      {"list": "Our most popular slim work pant features"},
+      {"list": "This moisture-wicking pant sits below the waist"},
+      {"list": "Our workwear products have distinctive designs"}
+    ],
+    "color": "Gray",
+    "weight": 285,
+    "width": 20
+  },
+  {
+    "img": "https://i.ibb.co/vQ9SWNQ/Straight-Fit-Pant.png",
+    "price": 565,
+    "name": "Straight Fit Pant",
+    "category": "pant",
+    "rating": 0,
+    "shortText": "LEE Men’s Performance Series Extreme Comfort Pant. A classic khaki look built for maximum comfort and style. Available in a variety of colors.",
+    "featureText": "Just like our founder, H.D. Lee, our passion is helping can-do people do more. We are committed to designing clothing that conforms to your body, allowing you to move through life freely. We help you chase the things that bring you joy and laughter. The things that make you fearless and hopefully because your passion is what makes you unique. And what moves you, moves us. Move your Lee.",
+    "featureList": [
+      {"list": "The Extreme Comfort Pant offers work-to-play versatility"},
+      {"list": "Zipper fly with button closure, leg opening: 16.875"},
+      {"list": "These straight fit pants are designed with four pockets"},
+      {"list": "With a straight fit through the hip and thigh"}
+    ],
+    "color": "Gray",
+    "weight": 154,
+    "width": 10
+  }
+]
